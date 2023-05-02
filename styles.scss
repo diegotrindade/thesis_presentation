@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+/*-- scss:defaults --*/
+  
+  $link-color: #CCCCFF	;
+  $font-family-sans-serif: 'Open Sans', sans-serif;
+$font-family-monospace: 'Fira Mono', monospace;
+
+$presentation-title-slide-text-align: center;
+
+$theme-darkblue: #01364C;
+$theme-red: #ccf2c7;
+$theme-white: #F7F8F9;
+$theme-yellow: #F4BA02;
+
+/*-- scss:rules --*/
+  
+  h1 {
+    color: #F4BA02!important;
+    font-size: 1em;
+  }
+  
+  h2 {
+    color: #C8F526	 !important;
+    font-size: .7em;
+  }
+  
+  
+  
+#title-slide {
+  .title {
+    font-size: 1.7em;
+    color: #F4BA02 ;
+    line-height: 90px;
+  }
+
+  .subtitle {
+    font-size: .6em;
+  }
+
+  .quarto-title-author {
+    color: #ccf2c7;
+    line-height: 290px;
+    font-size: 1em;
+  }
+}
+
+
+.red {
+  color: $theme-red;
+ 
+}
+.white {
+  color: $theme-white;
+ 
+}
+
+.panel-tabset-tabby a {
+  color: #fa520f;
+}
+
+.lineSpace {
+    line-height:12px;
+}

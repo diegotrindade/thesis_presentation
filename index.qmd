@@ -1,0 +1,194 @@
+---
+title: "Dark diversity dynamics linked to global change: taxonomic and functional perspective"
+author: 
+  - name: Diego P.F. Trindade
+    affiliations:
+      - name: University of Tartu, Estonia
+format: 
+  revealjs:
+    width: 1600
+    height: 900
+    slide-number: false
+    chalkboard: true
+    theme: ["dark", "styles.scss"]
+    echo: true
+    multiplex: true
+    code-link: true
+    code-copy: true
+    auto-play-media: false
+    preview-links: auto
+    title-slide-attributes:
+      
+      data-background-image: ../images/photo.jpg
+      data-background-opacity: "0.15"
+    
+editor: source
+---
+
+## Global change reshuffles biodiversity
+
+![](./images/pecl.jpeg){.absolute top="200" left="350" width="850" height="600"}
+
+::: footer
+::: {style="text-align:right;"}
+[Pecl et al. 2017. Science](https://www.science.org/doi/10.1126/science.aai9214)
+:::
+:::
+
+## Challenging to predict
+
+![](./images/helis.png){.absolute top="200" left="350" width="850" height="600"}
+
+::: footer
+::: {style="text-align:right;"}
+[HilleRisLambers et al. 2012. Ann Rev Ecol Evo Syst](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110411-160411)
+:::
+:::
+
+## Why is it hard to predict?
+
+- Biodiversity is complex and scale dependent
+- Temporal lags
+
+## Dark diversity concept may help
+
+- DD
+- Traits
+- Completeness
+
+![](./images/assembly.jpg){.absolute top="200" left="950" width="550" height="600"}
+
+## Dark diversity estimation
+
+- Co-occurrence
+
+- Species that co-occur very often tend to share ecological similarities
+
+## Dark diveristy over time or along gradients
+
+- Figure cartoon
+
+- Temporal datasets
+
+- Space-for-time-substitution
+
+## Biodiversity change and nature conservation
+
+
+
+## Aims of this thesis
+
+- Theoretical framework to examine biodiv change using dd
+
+- Whether dark diversity can be used to understand temporal lags
+
+- The role of dark diversity in nature conservation
+
+## Main hypotheses
+
+- Taxonomic and functional observed and dark diversity are expected to increase (local and pool gains) towards more benign conditions due to less stringent environmental filters and higher diversity of available niches 
+ 
+- Over time, dark diversity is expected to depict species in expansion lags, because species appearing and persisting in dark diversity are considered suitable despite being absent for long periods of time.
+
+- Traits related to low dispersal ability and high stress intolerance are expected to be found more often in dark diversity, and, thereby associated to species with delays in local colonization or establishment
+
+- Dark diversity reveals species and traits threatened by regional extinction or that could be focused on restoration efforts. Community completeness provides insights on whether a site should
+be restored (low community completeness) or conserved (high completeness)
+
+## Publications
+
+<br>
+
+#### [1^st^ chapter]{.red}: Temporal lags in observed and dark diversity in the Anthropocene
+
+<br>
+
+-- Theoretical
+
+<br>
+
+#### [2^nd^ chapter]{.red}: Observed and dark diversity dynamics over millennial time scales: fast life-history traits linked to expansion lags of plants in northern Europe
+
+<br>
+
+-- Sedimentary pollen data over 14,500 years
+
+<br>
+
+#### [2^nd^ chapter]{.red}: Integrating dark diversity and functional traits to enhance nature conservation of epiphytic lichens: a case study from Northern Italy
+
+-- Lichens' along elevational gradient
+
+
+
+# [1^st^ chapter]{.red}: Temporal lags in observed and dark diversity in the Anthropocene{background-image="./images/fig-GCB.jpg" background-opacity="0.1"}
+
+::: footer
+::: {style="text-align:right;"}
+[Trindade et al. 2020. Global Change Biology](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
+:::
+:::
+
+## Biodiversity change within the species pool
+
+- Local gains and losses
+
+- Species pool gains and losses
+
+- Increase less harsh conditions
+
+
+![](./images/fig-GCB.jpg){.absolute top="200" left="350" width="850" height="1600"}
+
+## Dark diveristy as a window of opportunity
+
+# 2^nd^ chapter: Observed and dark diversity dynamics over millennial time scales: fast life-history traits linked to expansion lags of plants in northern Europe{background-image="./images/fig1-procb.jpg" background-opacity="0.1"}
+
+::: footer
+::: {style="text-align:right;"}
+[Trindade et al. 2023. Proceedings B](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
+:::
+:::
+
+## Millennial time scales vegetation dynamics
+
+
+![](./images/fig1-procb.jpg){.absolute top="200" left="350" width="850" height="1600"}
+
+::: footer
+::: {style="text-align:right;"}
+[Trindade et al. 2023. Proceedings B](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
+:::
+:::
+
+## Estimating the dark diversity
+
+- 
+
+# 3^rd^ chapter: Integrating dark diversity and functional traits to enhance nature conservation of epiphytic lichens: a case study from Northern Italy
+
+
+::: footer
+::: {style="text-align:right;"}
+[Trindade et al. 2021. Biodiversity and Conservation](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
+:::
+:::
+
+
+# Discussion
+
+## a
+
+In this thesis, I advanced the role of dark diversity as a complementary and promising tool to examine biodiversity change by developing a conceptual framework in which species gains and losses are decomposed within the species pool (I); testing how much and how fast both taxonomic and functional species pool dynamics changed over time, due to climate change and human impact (II); and how dark diversity can be used to enhance nature conservation of species threatened by extinction, using lichens as a model (III).
+
+
+## 4.1 Global change effects on observed and dark diversity
+
+## 4.2 Global change and species pool dynamics
+
+## 4.3 Linking dark diversity to functional traits
+
+## 4.4 Dark diversity, global change and nature conservation
+
+
+
