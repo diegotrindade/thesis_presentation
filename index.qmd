@@ -3,7 +3,7 @@ title: "Dark diversity dynamics linked to global change: taxonomic and functiona
 author: 
   - name: Diego P.F. Trindade
     affiliations:
-      - name: University of Tartu, Estonia
+      - name: University of Tartu - Macroecology workgroup
 
 format: 
   revealjs:
@@ -22,8 +22,7 @@ format:
     title-slide-attributes:
       
       data-background-image: ../images/photo.jpg
-      data-background-opacity: "0.15"
-
+      data-background-opacity: "0.08"
 ---
 
 ## Global change drivers reshuffle biodiversity
@@ -46,38 +45,64 @@ format:
 :::
 :::
 
-## Dark diversity concept may help
+## Dark diversity concept
 
-![](./images/assembly.jpg){.absolute top="150" left="450" width="650" height="800"}
+![](./images/assembly.jpg){.absolute top="100" left="450" width="650" height="800"}
+
+## Species pools change in space and time
+
+![](./images/pool-change.png){.absolute top="120" left="250" width="1050" height="800"}
+
+## Dark diversity, biodiversity change and nature conservation
+
+![](./images/lewis.png){.absolute top="250" left="350" width="950" height="450"}
+
+::: footer
+::: {style="text-align:right;"}
+[Illustration: Rob Lewis](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110411-160411)
+:::
+:::
 
 
-## Dark diversity over time or along gradients
+## Aim of this thesis
+
+<br>
+<br>
+<br>
+<br>
+
+::: columns
+
+::: {.column width="20%"}
+:::
+
+::: {.column width="70%"}
 
 
-![](./images/pool-change.png){.absolute top="150" left="250" width="1050" height="800"}
+#### Dark diversity as a complementary tool to assess and quantify biodiversity change across space and time
 
-## Biodiversity change and nature conservation
+:::
 
-![](./images/assembly.jpg){.absolute top="150" left="450" width="650" height="800"}
-
-
-## Aims of this thesis
-
--   Theoretical framework to examine biodiv change using dd
-
--   Whether dark diversity can be used to understand temporal lags
-
--   The role of dark diversity in nature conservation
-
+:::
 ## Main hypotheses
 
--   Taxonomic and functional observed and dark diversity are expected to increase (local and pool gains) towards more benign conditions due to less stringent environmental filters and higher diversity of available niches
 
--   Over time, dark diversity is expected to depict species in expansion lags, because species appearing and persisting in dark diversity are considered suitable despite being absent for long periods of time.
 
--   Traits related to low dispersal ability and high stress intolerance are expected to be found more often in dark diversity, and, thereby associated to species with delays in local colonization or establishment
+-   Taxonomic and functional observed and dark diversity are expected to increase (local and pool gains) towards more benign conditions;
 
--   Dark diversity reveals species and traits threatened by regional extinction or that could be focused on restoration efforts. Community completeness provides insights on whether a site should be restored (low community completeness) or conserved (high completeness)
+<br>
+
+
+-   Over time, dark diversity is expected to depict species in expansion lags;
+
+<br>
+
+-   Traits related to low dispersal ability and high stress intolerance are expected to be found more often in dark diversity;
+
+<br>
+
+-   Dark diversity reveals species and traits threatened by regional extinction or that could be focused on restoration efforts.
+
 
 ## Publications
 
@@ -103,21 +128,21 @@ format:
 
 ## Decomposing biodiversity change
 
-![](./images/fig-GCB.jpg){.absolute top="200" left="350" width="850" height="1600"}
+![](./images/fig-GCB.jpg){.absolute top="100" left="350" width="750" height="800"}
 
 ## Proposed theoretically
 
 <br>
 
-- Dark diversity enables decomposing biodiversity change
+-   Dark diversity enables decomposing biodiversity change
 
 <br>
 
-- Local gains and losses should increase towards benign conditions
+-   Local and species pool gains should increase towards benign conditions
 
 <br>
 
-- Dark diversity creates windows of opportunities to protect and restore biodiversity
+-   Dark diversity creates windows of opportunities to protect and restore biodiversity
 
 # 2^nd^ chapter: Observed and dark diversity dynamics over millennial time scales: fast life-history traits linked to expansion lags of plants in northern Europe {background-image="./images/fig1-procb.jpg" background-opacity="0.1"}
 
@@ -129,7 +154,7 @@ format:
 
 ## Vegetation dynamics over millennial time scales
 
-![](./images/fig1-procb.jpg){.absolute top="100" left="350" width="750" height="800"}
+![](./images/fig1-procb.jpg){.absolute top="100" left="450" width="750" height="800"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -137,20 +162,26 @@ format:
 :::
 :::
 
-## Estimating the dark diversity and functional traits
+## Dark diversity estimation
 
--   Dark diversity was estimated based on the co-occurrence of species
+![](./images/carmona.jpg){.absolute top="100" left="450" width="750" height="800"}
 
-<br>
+::: footer
+::: {style="text-align:right;"}
+[Carmona & Pärtel. 2021. Glob. Ecol. Biog.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
+:::
+:::
 
-### Functional traits:
 
-- Seed weight
-- Height
-- Specific leaf area
-- Clonality
+## Functional traits
 
-# 3^rd^ chapter: Integrating dark diversity and functional traits to enhance nature conservation of epiphytic lichens: a case study from Northern Italy{background-image="./images/lichen-pic.png" background-opacity="0.1"}
+-   Seed weight
+-   Height
+-   Specific leaf area
+-   Clonality
+
+
+# 3^rd^ chapter: Integrating dark diversity and functional traits to enhance nature conservation of epiphytic lichens: a case study from Northern Italy {background-image="./images/lichen-pic.png" background-opacity="0.1"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -164,29 +195,45 @@ format:
 
 ## Lichen dark diversity along an altitudinal gradient
 
-
 ![](./images/gradient.png){.absolute top="100" left="350" width="750" height="800"}
-
 
 ## Functional traits
 
 <br>
 
-- Growth form: Crustose, Foliose, Fruticose
-- Photobiont type: Green algae, Trentepohlia
-- Reproduction
+-   Growth form: Crustose, Foliose, Fruticose;
 
-![](./images/lichen-pic.png){.absolute top="100" left="850" width="750" height="800"}
+<br>
+
+-   Photobiont type: Green algae, Trentepohlia;
+
+<br>
+
+-   Reproduction
+
+![](./images/lichen-pic.png){.absolute top="100" left="950" width="750" height="800"}
 
 ## Conservation or restoration?
 
-- Community completeness index and functional traits
+-   Community completeness index and functional traits
+
+<br>
+
+<br>
+
+![](./images/lewis.png){.absolute top="250" left="350" width="950" height="450"}
+
+::: footer
+::: {style="text-align:right;"}
+[Illustration: Rob Lewis](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110411-160411)
+:::
+:::
 
 # Main findings
 
 ## Bening conditions increased both local and species pool gains
 
-![](./images/fig2-procb.jpg){.absolute top="250" left="250" width="1050" height="800"}
+![](./images/fig2-procb.jpg){.absolute top="150" left="250" width="950" height="700"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -196,7 +243,7 @@ format:
 
 ## Bening conditions increased both local and species pool gains
 
-![](./images/fig1-lichen.png){.absolute top="200" left="450" width="550" height="900"}
+![](./images/fig1_lichens.png){.absolute top="160" left="550" width="500" height="750"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -206,7 +253,7 @@ format:
 
 ## Dark diversity successfully depicted taxa in expansion lag
 
-![](./images/fig2-procb.jpg){.absolute top="250" left="250" width="1050" height="800"}
+![](./images/fig2-procb.jpg){.absolute top="180" left="350" width="950" height="700"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -214,7 +261,7 @@ format:
 :::
 :::
 
-## {background-color="white"}
+##  {background-color="white"}
 
 ![](./images/freq_taxa.png){.absolute top="50" left="150" width="1450" height="800"}
 
@@ -226,7 +273,7 @@ format:
 
 ## NO Functional expansion lag
 
-![](./images/fig2-procb.jpg){.absolute top="250" left="250" width="1050" height="800"}
+![](./images/fig2-procb.jpg){.absolute top="180" left="350" width="950" height="700"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -236,7 +283,7 @@ format:
 
 ## Functional traits explained why species were in dark diversity and in expansion lags
 
-![](./images/pollen-trait.jpg){.absolute top="250" left="250" width="1050" height="800"}
+![](./images/pollen-trait.jpg){.absolute top="180" left="350" width="950" height="700"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -244,10 +291,9 @@ format:
 :::
 :::
 
-
 ## Functional traits explained why species were in dark diversity and in expansion lags
 
-![](./images/fig-lichen-trait.png){.absolute top="250" left="250" width="1050" height="800"}
+![](./images/fig-lichen-trait.png){.absolute top="180" left="350" width="950" height="700"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -257,7 +303,10 @@ format:
 
 ## Dark diversity and nature conservation
 
-![](./images/fig1-lichen.png){.absolute top="200" left="450" width="550" height="900"}
+![](./images/fig1_lichens.png){.absolute top="130" left="0" width="500" height="750"}
+
+![](./images/fig-lichen-trait.png){.absolute top="130" left="750" width="950" height="700"}
+
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -265,12 +314,17 @@ format:
 :::
 :::
 
+
 ## Conclusions
 
-- Observed and dark diversity of both plants and lichens generally increased towards more benign conditions;
+-   Observed and dark diversity of both plants and lichens generally increased towards more benign conditions;
 
-- Dark diversity can improve our understanding of biodiversity dynamics under global change by revealing species becoming both locally extinct and locally suitable but absent;
+-   Dark diversity can improve our understanding of biodiversity dynamics under global change by revealing species becoming either locally extinct or locally suitable but absent;
 
-- Functional traits revealed why species were in the dark diversity of both plants and lichens, and in expansion lag;
+-   Functional traits revealed why species were in the dark diversity of both plants and lichens, and in expansion lag;
 
-- Dark diversity and functional traits can be used to guide nature conservation plants, providing a broader conservation planning by focusing on the whole species pool (observed and dark diversity together).
+-   Dark diversity and functional traits can be used to guide nature conservation plans, providing a broader conservation planning by focusing on the whole species pool (observed and dark diversity together).
+
+# Thank you!
+
+- Some photos :)
