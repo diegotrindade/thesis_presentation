@@ -7,12 +7,12 @@ author:
 
 format: 
   revealjs:
-    
+    margin: 0
     width: 1600
     height: 900
     slide-number: false
     chalkboard: true
-    theme: ["dark", "styles.scss"]
+    theme: ["styles.scss"]
     echo: true
     multiplex: true
     code-link: true

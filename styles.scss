@@ -62,3 +62,13 @@ $theme-yellow: #F4BA02;
 .lineSpace {
     line-height:12px;
 }
+
+section.slide h2 {
+  color: #C8F526 !important;
+  background-color: black !important;
+  width: 200vw;
+  position: relative;
+  left: -20vw;
+  padding-left: 20vw;
+  padding-bottom: 5px;
+}
