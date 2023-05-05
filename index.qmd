@@ -37,11 +37,11 @@ format:
 
 ## Timely but challenging
 
-![](./images/helis.png){.absolute top="200" left="350" width="850" height="600"}
+![](./images/assembly1.svg){.absolute top="100" left="350" width="850" height="1050"}
 
 ::: footer
 ::: {style="text-align:right;"}
-[HilleRisLambers et al. 2012. Ann Rev Ecol Evo Syst](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110411-160411)
+[Illustration: Diego Trindade](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110411-160411)
 :::
 :::
 
