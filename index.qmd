@@ -1,10 +1,11 @@
 ---
 title: "Dark diversity dynamics linked to global change: taxonomic and functional perspective"
 author: 
-  - name: Diego P.F. Trindade
+    name: 
+      - Diego P.F. Trindade
     affiliations:
-      - name: University of Tartu - Macroecology workgroup
-
+      - University of Tartu - Macroecology workgroup
+      - "</br>[Supervisors: </br> Prof. Meelis Pärtel </br> Assoc. Prof. Carlos P. Carmona]{.white}"
 format: 
   revealjs:
     margin: 0
@@ -20,10 +21,22 @@ format:
     auto-play-media: false
     preview-links: auto
     title-slide-attributes:
-      
+      data-background-color: "gray"
       data-background-image: ../images/photo.jpg
       data-background-opacity: "0.08"
 ---
+
+## Thesis structure
+
+::: {.panel-tabset}
+
+### First paper
+
+### Second Paper
+
+### Third Paper
+
+:::
 
 ## Global change drivers reshuffle biodiversity
 

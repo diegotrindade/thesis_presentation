@@ -13,6 +13,9 @@ $theme-red: #ccf2c7;
 $theme-white: #F7F8F9;
 $theme-yellow: #F4BA02;
 
+// colors
+$body-bg: #f0f1eb !default;
+
 /*-- scss:rules --*/
   
   h1 {
@@ -26,10 +29,9 @@ $theme-yellow: #F4BA02;
   }
   
   
-  
 #title-slide {
   .title {
-    font-size: 1.7em;
+    font-size: 2em;
     color: #F4BA02 ;
     line-height: 90px;
   }
@@ -41,7 +43,15 @@ $theme-yellow: #F4BA02;
   .quarto-title-author {
     color: #ccf2c7;
     line-height: 290px;
-    font-size: 1em;
+    font-size: 1.2em;
+  }
+  .quarto-title-affiliation {
+    color: yellow;
+    font-size: .7em;
+  }
+  .supervisor {
+    color: $theme-darkblue;
+    font-size: 1.2em;
   }
 }
 
@@ -72,3 +82,6 @@ section.slide h2 {
   padding-left: 20vw;
   padding-bottom: 5px;
 }
+
+
+
