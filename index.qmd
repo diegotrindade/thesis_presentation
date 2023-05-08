@@ -26,17 +26,42 @@ format:
       data-background-opacity: "0.08"
 ---
 
-## Thesis structure
+## Community assembly
 
-::: {.panel-tabset}
 
-### First paper
+![](./images/assembly1.svg){.absolute top="100" left="350" width="850" height="1050"}
 
-### Second Paper
+## Community assembly
 
-### Third Paper
 
-:::
+![](./images/assembly2.svg){.absolute top="100" left="350" width="850" height="1050"}
+
+## Filtered species pool
+
+![](./images/assembly_observed.svg){.absolute top="100" left="350" width="850" height="1050"}
+## Why is DD important?
+
+- Understand how filtering process operates
+
+- How realized each local community is
+
+- When functional traits are included: why species are absent
+
+## How to estimate dark diversity?
+
+![](./images/estimate-dd1.svg){.absolute top="100" left="350" width="850" height="1050"}
+
+## How to estimate dark diversity?
+
+![](./images/estimate-dd.svg){.absolute top="100" left="350" width="850" height="1050"}
+
+## Why is dark diversity important?
+
+![](./images/assembly_observed.svg){.absolute top="100" left="350" width="850" height="1050"}
+
+## Dark diversity and global change
+
+
 
 ## Global change drivers reshuffle biodiversity
 
