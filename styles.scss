@@ -12,6 +12,7 @@ $theme-darkblue: #01364C;
 $theme-red: #ccf2c7;
 $theme-white: #F7F8F9;
 $theme-yellow: #F4BA02;
+$theme-supervisor: #FFC06E;
 
 // colors
 $body-bg: #f0f1eb !default;
@@ -31,7 +32,7 @@ $body-bg: #f0f1eb !default;
   
 #title-slide {
   .title {
-    font-size: 2em;
+    font-size: 1.8em;
     color: #F4BA02 ;
     line-height: 90px;
   }
@@ -41,24 +42,30 @@ $body-bg: #f0f1eb !default;
   }
 
   .quarto-title-author {
-    color: #ccf2c7;
+    color: #C8F526;
     line-height: 290px;
     font-size: 1.2em;
   }
   .quarto-title-affiliation {
-    color: yellow;
-    font-size: .7em;
-  }
-  .supervisor {
-    color: $theme-darkblue;
-    font-size: 1.2em;
+    color: white;
+    font-size: .5em;
   }
 }
 
+.supervisor {
+  color: $theme-supervisor;
+}
+
+.darkblue {
+  color: $theme-darkblue;
+}
+
+.yellow {
+  color: $theme-yellow;
+}
 
 .red {
   color: $theme-red;
- 
 }
 .white {
   color: $theme-white;
@@ -84,4 +91,7 @@ section.slide h2 {
 }
 
 
+.center h4 {
+  text-align: center;
+}
 

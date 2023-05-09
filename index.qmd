@@ -1,11 +1,11 @@
 ---
-title: "Dark diversity dynamics linked to global change: taxonomic and functional perspective"
+title: "</br>Dark diversity dynamicsa linked to global change: taxonomic and functional perspective"
 author: 
     name: 
       - Diego P.F. Trindade
     affiliations:
       - University of Tartu - Macroecology workgroup
-      - "</br>[Supervisors: </br> Prof. Meelis Pärtel </br> Assoc. Prof. Carlos P. Carmona]{.white}"
+      - "</br>[Supervisors: </br> Prof. Meelis Pärtel </br> Assoc. Prof. Carlos P. Carmona]{.supervisor}"
 format: 
   revealjs:
     margin: 0
@@ -21,9 +21,10 @@ format:
     auto-play-media: false
     preview-links: auto
     title-slide-attributes:
-      data-background-color: "gray"
-      data-background-image: ../images/photo.jpg
-      data-background-opacity: "0.08"
+      data-background-image: meelis.png
+      data-background-color: "black"
+      data-background-size: 100%
+      data-background-opacity: "0.4" 
 ---
 
 ## Community assembly
@@ -39,31 +40,71 @@ format:
 ## Filtered species pool
 
 ![](./images/assembly_observed.svg){.absolute top="100" left="350" width="850" height="1050"}
-## Why is DD important?
 
-- Understand how filtering process operates
 
-- How realized each local community is
-
-- When functional traits are included: why species are absent
-
-## How to estimate dark diversity?
+## Dark diversity cannot be seen
 
 ![](./images/estimate-dd1.svg){.absolute top="100" left="350" width="850" height="1050"}
 
-## How to estimate dark diversity?
+## But we can estimate it
 
 ![](./images/estimate-dd.svg){.absolute top="100" left="350" width="850" height="1050"}
 
 ## Why is dark diversity important?
 
-![](./images/assembly_observed.svg){.absolute top="100" left="350" width="850" height="1050"}
+![](./images/assembly_observed.svg){.absolute top="100" left="950" width="850" height="1050"}
 
-## Dark diversity and global change
+:::columns
+
+::: {.column width="70%"}
+
+</br>
+
+- How the filtering process operates from regional to local scales;
+
+</br>
+
+- How realized each local community is (community completeness);
+
+</br>
+
+- When functional traits are included: why species are absent
+
+
+- Useful for nature conservation
+
+:::
+
+:::
 
 
 
-## Global change drivers reshuffle biodiversity
+## Why species are absent?
+
+
+![](./images/reason1-dd.svg){.absolute top="100" left="350" width="850" height="1050"}
+
+## Why species are absent?
+
+
+![](./images/reason2-dd.svg){.absolute top="100" left="350" width="850" height="1050"}
+
+## Why species are absent?
+
+
+![](./images/reason3-dd.svg){.absolute top="100" left="350" width="850" height="1050"}
+
+
+## Dark diversity and nature conservation
+
+![](./images/tetris-observed.svg){.absolute top="100" left="350" width="850" height="1050"}
+
+## Dark diversity and nature conservation
+
+![](./images/tetris-pool.svg){.absolute top="100" left="350" width="850" height="1050"}
+
+
+## Global changes and biodiversity reshuffling
 
 ![](./images/pecl.jpeg){.absolute top="200" left="350" width="850" height="600"}
 
@@ -73,36 +114,102 @@ format:
 :::
 :::
 
-## Timely but challenging
 
-![](./images/assembly1.svg){.absolute top="100" left="350" width="850" height="1050"}
+## Dark diversity and global change
 
-::: footer
-::: {style="text-align:right;"}
-[Illustration: Diego Trindade](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110411-160411)
-:::
-:::
+![](./images/assembly-global-change1.svg){.absolute top="100" left="350" width="850" height="1050"}
 
-## Dark diversity concept
+## Dark diversity and global change
 
-![](./images/assembly.jpg){.absolute top="100" left="450" width="650" height="800"}
 
-## Species pools change in space and time
+:::columns
 
-![](./images/pool-change.png){.absolute top="120" left="250" width="1050" height="800"}
 
-## Dark diversity, biodiversity change and nature conservation
+::: {.column width="50%"}
 
-![](./images/lewis.png){.absolute top="250" left="350" width="950" height="450"}
+<br>
+<br>
+<br>
 
-::: footer
-::: {style="text-align:right;"}
-[Illustration: Rob Lewis](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110411-160411)
-:::
+-- Climate and land-use change affect biodiversity across scales 
+
+<br>
+
+
 :::
 
 
-## Aim of this thesis
+
+::: {.column width="30%"}
+
+
+![](./images/assembly-global-change2.svg){.absolute top="100" left="650" width="850" height="1050"}
+:::
+
+:::
+
+## Dark diversity and global change
+
+:::columns
+
+
+::: {.column width="50%"}
+
+<br>
+<br>
+<br>
+
+-- Climate and land-use change affect biodiversity across scales 
+
+<br>
+
+-- Biodiversity change is time delayed
+
+:::
+
+::: {.column width="30%"}
+
+
+![](./images/assembly-global-change2.svg){.absolute top="100" left="650" width="850" height="1050"}
+
+![](https://media.tenor.com/IGjQ2m8Wh7QAAAAi/clock.gif){.absolute bottom="150" left="1350" width="160" height="160"}
+
+:::
+
+:::
+
+
+
+## Dark diversity and global change
+
+:::columns
+
+
+::: {.column width="50%"}
+
+<br>
+<br>
+<br>
+
+-- Climate and land-use change affect biodiversity across scales 
+
+<br>
+
+-- Biodiversity change is time delayed
+
+:::
+
+::: {.column width="30%"}
+
+
+![](./images/assembly-global-change.svg){.absolute top="100" left="650" width="850" height="1050"}
+
+
+:::
+
+:::
+
+## Thesis structure
 
 <br>
 <br>
@@ -122,6 +229,8 @@ format:
 :::
 
 :::
+
+
 ## Main hypotheses
 
 
@@ -131,7 +240,7 @@ format:
 <br>
 
 
--   Over time, dark diversity is expected to depict species in expansion lags;
+-   Over time, dark diversity is expected to depict species in expansion lag;
 
 <br>
 
