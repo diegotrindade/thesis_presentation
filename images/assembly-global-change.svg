@@ -27,7 +27,7 @@
      showgrid="false"
      inkscape:zoom="0.78127806"
      inkscape:cx="382.70625"
-     inkscape:cy="593.89867"
+     inkscape:cy="595.17862"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -36,6 +36,16 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs1778">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect47159"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect45000"
+       is_visible="true"
+       lpeversion="1" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect93315"
@@ -1321,6 +1331,21 @@
     <inkscape:path-effect
        effect="spiro"
        id="path-effect93315-6"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect45000-1"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect45000-1-1"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect45000-6"
        is_visible="true"
        lpeversion="1" />
   </defs>

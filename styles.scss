@@ -2,17 +2,26 @@
 
 /*-- scss:defaults --*/
   
-  $link-color: #CCCCFF	;
+  $link-color: #01364C	;
   $font-family-sans-serif: 'Open Sans', sans-serif;
 $font-family-monospace: 'Fira Mono', monospace;
 
 $presentation-title-slide-text-align: center;
 
 $theme-darkblue: #01364C;
-$theme-red: #ccf2c7;
+$theme-red: #de4949;
+$theme-lightgreen: #ccf2c7;
 $theme-white: #F7F8F9;
 $theme-yellow: #F4BA02;
 $theme-supervisor: #FFC06E;
+$theme-orange: #fa520f;
+$theme-green: #438029;
+$theme-brown: #616871;
+$theme-blue: #185ADB;
+$theme-glowgreen: #C8F526;
+$theme-aqua: #49deaf;
+$theme-grey: #adb3b1;
+
 
 // colors
 $body-bg: #f0f1eb !default;
@@ -52,12 +61,35 @@ $body-bg: #f0f1eb !default;
   }
 }
 
+.orange {
+  color: $theme-orange;
+}
+
+.grey {
+  color: $theme-grey;
+}
+.glowgreen {
+  color: $theme-glowgreen;
+}
+
+.aqua {
+  color: $theme-aqua;
+}
+
 .supervisor {
   color: $theme-supervisor;
 }
 
 .darkblue {
   color: $theme-darkblue;
+}
+
+.brown {
+  color: $theme-brown;
+}
+
+.blue {
+  color: $theme-blue;
 }
 
 .yellow {
@@ -67,8 +99,18 @@ $body-bg: #f0f1eb !default;
 .red {
   color: $theme-red;
 }
+
+.lightgreen {
+  color: $theme-lightgreen;
+}
+
 .white {
   color: $theme-white;
+ 
+}
+
+.green {
+  color: $theme-green;
  
 }
 
@@ -95,3 +137,6 @@ section.slide h2 {
   text-align: center;
 }
 
+.half-transparent {
+  opacity: 0.5;
+}
