@@ -284,6 +284,13 @@ format:
 
 - Taxonomic and functional
 
+- Functional traits
+
+-   Seed weight
+-   Height
+-   Specific leaf area
+-   Clonality
+
 :::
 
 :::
@@ -419,24 +426,46 @@ format:
 :::columns
 ::: {.column width="60%"}
 
-<br>
+<br><br>
 
-#### Dark diversity enables decomposing biodiversity change and detect temporal lags
-
-<br>
-
-#### Local and species pool gains should increase towards benign conditions
+#### Dark diversity enables decomposing biodiversity change and detect temporal lags;
 
 <br>
 
-#### Dark diversity creates windows of opportunities to protect and restore biodiversity
+#### Local and species pool gains should increase towards benign conditions;
+
+<br>
+
+#### Dark diversity creates windows of opportunities to protect and restore biodiversity.
 
 :::
 :::
 
-## 2^nd^ paper: Dark diversity reveals taxa in expansion lag {background-image="./images/fig1-procb.jpg" background-opacity="0.1"}
+## Temporal lags in observed and dark diversity 
 
-![](./images/fig1-procb.jpg){.absolute top="100" left="850" width="750" height="800"}
+![](./images/assembly-global-change-GCB.svg){.absolute top="50" left="950" width="850" height="1050"}
+
+:::columns
+::: {.column width="60%"}
+
+<br><br>
+
+#### Dark diversity enables decomposing biodiversity change and detect temporal lags;
+
+<br>
+
+#### Local and species pool gains should increase towards benign conditions;
+
+<br>
+
+#### Dark diversity creates windows of opportunities to protect and restore biodiversity.
+
+:::
+:::
+
+## 2^nd^ paper: Vegetation dynamics over millennial time scales
+
+![](./images/fig1-procb.jpg){.absolute top="80" left="450" width="750" height="800"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -444,9 +473,23 @@ format:
 :::
 :::
 
-## Vegetation dynamics over millennial time scales
 
-![](./images/fig1-procb.jpg){.absolute top="100" left="450" width="750" height="800"}
+## Bening conditions increased both local and species pool gains
+
+#### After the LG and during the Late Holocene
+
+#### Dark diversity increased faster
+
+![](./images/fig2-procb.jpg){.absolute top="150" left="250" width="950" height="700"}
+
+## Dark diversity reveals taxa in expansion lag
+
+![](./images/expansion-lag-PRSB.svg){.absolute top="50" left="950" width="850" height="1050"}
+
+
+## Dark diversity reveals taxa in expansion lag
+
+![](./images/freq_taxa.png){.absolute top="50" left="150" width="1450" height="800"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -455,21 +498,27 @@ format:
 :::
 
 
-## Functional traits
+## No functional expansion lags
 
--   Seed weight
--   Height
--   Specific leaf area
--   Clonality
+
+#### Niches created were rapidly occupied by good dispersers
+
+![](./images/fig2-procb.jpg){.absolute top="150" left="250" width="950" height="700"}
+
+
+## No functional expansion lags
+
+![](./images/noexpansion-lag-PRSB.svg){.absolute top="50" left="950" width="850" height="1050"}
+
+## Taxa with fast life history traits presented expansion lags
+
+![](./images/pollen-trait.jpg){.absolute top="150" left="250" width="950" height="700"}
+
 
 
 # 3^rd^ chapter: Integrating dark diversity and functional traits to enhance nature conservation of epiphytic lichens: a case study from Northern Italy {background-image="./images/lichen-pic.png" background-opacity="0.1"}
 
-::: footer
-::: {style="text-align:right;"}
-[Trindade et al. 2021. Biodiversity and Conservation](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
-:::
-:::
+
 
 ## Lichen dark diversity along an altitudinal gradient
 
@@ -511,17 +560,6 @@ format:
 :::
 :::
 
-# Main findings
-
-## Bening conditions increased both local and species pool gains
-
-![](./images/fig2-procb.jpg){.absolute top="150" left="250" width="950" height="700"}
-
-::: footer
-::: {style="text-align:right;"}
-[Trindade et al. 2023. Proceedings B](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
-:::
-:::
 
 ## Bening conditions increased both local and species pool gains
 
@@ -533,15 +571,6 @@ format:
 :::
 :::
 
-## Dark diversity successfully depicted taxa in expansion lag
-
-![](./images/fig2-procb.jpg){.absolute top="180" left="350" width="950" height="700"}
-
-::: footer
-::: {style="text-align:right;"}
-[Trindade et al. 2023. Proceedings B](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
-:::
-:::
 
 ##  {background-color="white"}
 
