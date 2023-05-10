@@ -251,6 +251,7 @@ format:
 
 ![](./images/paper1.png){.absolute top="250" left="950" width="750" height="250"}
 
+
 ::: {.fragment}
 
 <br>
@@ -278,18 +279,13 @@ format:
 <br>
 <br>
 
-- Sedimentary pollen data
+- Sedimentary pollen data (20 lakes)
 
 - Dark diversity dynamics over 14500 years
 
-- Taxonomic and functional
+- Taxonomic and functional facets
 
-- Functional traits
-
--   Seed weight
--   Height
--   Specific leaf area
--   Clonality
+- Functional traits (seed weight, height, specific leaf area, clonality)
 
 :::
 
@@ -312,7 +308,7 @@ format:
 
 - Lichen dataset along an elevational gradient;
 
-- How changes in climate may affect the species pool
+- How climate change may affect the species pool
 
 - Dark diversity, functional traits and nature conservation
 
@@ -365,7 +361,7 @@ format:
 
 -   [Over time, dark diversity depicts species in [expansion lag]{.orange};]{.half-transparent}
 
--   Traits related to low dispersal ability and high stress intolerance are expected to be found more often in dark diversity;
+-   Traits related to low dispersal ability and stress tolerance are expected to be found more often in dark diversity;
 
 ::: {.fragment}
 ::: {.fragment .shrink .fade-out}
@@ -387,7 +383,7 @@ format:
 
 -   [Over time, dark diversity depicts species in [expansion lag]{.orange};]{.half-transparent}
 
--   [Traits related to low dispersal ability and high stress intolerance are expected to be found more often in dark diversity;]{.half-transparent}
+-   [Traits related to low dispersal ability and stress tolerance are expected to be found more often in dark diversity;]{.half-transparent}
 
 -  Dark diversity reveals species and traits threatened to go extinct or that could be focused on restoration activities
 
@@ -400,7 +396,7 @@ format:
 
 <br>
 
-#### Temporal lags in observed and dark diversity 
+### Temporal lags in observed and dark diversity 
 
 ![](./images/figGCB.svg){.absolute top="100" left="350" width="850" height="1050"}
 
@@ -411,9 +407,13 @@ format:
 :::
 
 
-## Temporal lags in observed and dark diversity 
+## 1^st^ paper: 
 
-![](./images/figGCB.svg){.absolute top="50" left="950" width="850" height="1050"}
+<br>
+
+### Temporal lags in observed and dark diversity 
+
+![](./images/figGCB.svg){.absolute top="100" left="950" width="850" height="1050"}
 
 
 
@@ -430,9 +430,6 @@ format:
 
 #### Dark diversity enables decomposing biodiversity change and detect temporal lags;
 
-<br>
-
-#### Local and species pool gains should increase towards benign conditions;
 
 <br>
 
@@ -441,7 +438,12 @@ format:
 :::
 :::
 
-## Temporal lags in observed and dark diversity 
+## 1^st^ paper: 
+
+<br>
+
+### Temporal lags in observed and dark diversity 
+
 
 ![](./images/assembly-global-change-GCB.svg){.absolute top="50" left="950" width="850" height="1050"}
 
@@ -452,9 +454,6 @@ format:
 
 #### Dark diversity enables decomposing biodiversity change and detect temporal lags;
 
-<br>
-
-#### Local and species pool gains should increase towards benign conditions;
 
 <br>
 
@@ -473,54 +472,178 @@ format:
 :::
 :::
 
+## 2^nd^ paper: Local and species pool gains over time
 
-## Bening conditions increased both local and species pool gains
+:::columns
+::: {.column width="30%"}
 
-#### After the LG and during the Late Holocene
+<br><br><br>
 
-#### Dark diversity increased faster
+#### Less harsh conditions after the [LG]{.blue} and [Late Holocene]{.yellow} boosted biodiversity
 
-![](./images/fig2-procb.jpg){.absolute top="150" left="250" width="950" height="700"}
+:::
+:::
+
+::: {.r-stack}
+
+![](./images/fig2-procb.jpg){.absolute top="80" left="550" width="1050" height="800"}
+
+::: {.fragment}
+
+![](./images/tax-PRSB.png){.absolute top="100" left="550" width="1050" height="790"}
+
+:::
+
+:::
+
+## 2^nd^ paper: Local and species pool gains over time
+
+:::columns
+::: {.column width="30%"}
+
+<br><br>
+
+#### [Less harsh conditions after the [LG]{.blue} and [Late Holocene]{.yellow} boosted biodiversity]{.half-transparent}
+
+<br>
+
+### [Dark diversity increased faster]{.red}
+
+<br>
+
+::: {.fragment}
+
+### Indication of expansion lag
+
+:::
+
+:::
+
+:::
+
+![](./images/tax-PRSB.png){.absolute top="100" left="550" width="1050" height="790"}
+
 
 ## Dark diversity reveals taxa in expansion lag
 
-![](./images/expansion-lag-PRSB.svg){.absolute top="50" left="950" width="850" height="1050"}
+![](./images/expansion-lag-PRSB.svg){.absolute top="50" left="550" width="850" height="1050"}
 
+
+:::columns
+::: {.column width="30%"}
+
+
+<br><br>
+
+### [Dark diversity increased faster]{.red}
+
+<br>
+
+### Indication of expansion lag
+
+
+
+:::
+
+:::
 
 ## Dark diversity reveals taxa in expansion lag
+
 
 ![](./images/freq_taxa.png){.absolute top="50" left="150" width="1450" height="800"}
 
-::: footer
-::: {style="text-align:right;"}
-[Trindade et al. 2023. Proceedings B](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
+
+
+## Dark diversity reveals taxa in expansion lag
+
+
+:::columns
+::: {.column width="30%"}
+
+
+<br><br><br><br><br>
+
+### [Highly suitable taxa that persisted in dark diversity]{.red}
+
 :::
+
+:::
+
+![](./images/frangula.png){.absolute top="70" left="550" width="700" height="450"}
+
+![](./images/plantago.png){.absolute top="85" left="1200" width="650" height="450"}
+
+
+![](./images/rumex.png){.absolute top="500" left="950" width="650" height="400"}
+
+
+## Taxa with fast life-history traits presented expansion lags
+
+![](./images/pollen-trait.jpg){.absolute top="100" left="550" width="1250" height="750"}
+
+<br><br><br>
+
+:::columns
+
+:::{.column width=30%}
+
+### [Taxa were mostly:]{.darkblue} [shorter, small seeds and large leaves]{.orange}
+
+<br>
+
+:::{.fragment}
+
+### Indication of dispersal limitation and stress intolerance
+
+:::
+
+:::
+
 :::
 
 
 ## No functional expansion lags
 
+:::columns
 
-#### Niches created were rapidly occupied by good dispersers
+:::{.column width=30%}
 
-![](./images/fig2-procb.jpg){.absolute top="150" left="250" width="950" height="700"}
+<br><br>
+
+### Functional space available mostly occupied
+
+<br>
+
+### Niches created after the LG and Late Holocene were rapidly occupied
+
+:::
+
+:::
+
+![](./images/func-space-PRSB.png){.absolute top="80" left="550" width="1050" height="800"}
 
 
 ## No functional expansion lags
 
-![](./images/noexpansion-lag-PRSB.svg){.absolute top="50" left="950" width="850" height="1050"}
+:::columns
 
-## Taxa with fast life history traits presented expansion lags
+:::{.column width=30%}
 
-![](./images/pollen-trait.jpg){.absolute top="150" left="250" width="950" height="700"}
+<br><br><br>
+
+### High functional redundancy at the species pool level
+
+:::
+
+:::
 
 
-
-# 3^rd^ chapter: Integrating dark diversity and functional traits to enhance nature conservation of epiphytic lichens: a case study from Northern Italy {background-image="./images/lichen-pic.png" background-opacity="0.1"}
-
+![](./images/noexpansion-lag-PRSB.svg){.absolute top="150" left="550" width="850" height="1050"}
 
 
-## Lichen dark diversity along an altitudinal gradient
+## 3^rd^ paper: 
+
+### Dark diversity and functional traits enhance nature conservation of lichens
 
 ![](./images/italy.png){.absolute top="200" left="200" width="1250" height="600"}
 
@@ -572,46 +695,6 @@ format:
 :::
 
 
-##  {background-color="white"}
-
-![](./images/freq_taxa.png){.absolute top="50" left="150" width="1450" height="800"}
-
-::: footer
-::: {style="text-align:right;"}
-[Trindade et al. 2023. Proceedings B](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
-:::
-:::
-
-## NO Functional expansion lag
-
-![](./images/fig2-procb.jpg){.absolute top="180" left="350" width="950" height="700"}
-
-::: footer
-::: {style="text-align:right;"}
-[Trindade et al. 2023. Proceedings B](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
-:::
-:::
-
-## Functional traits explained why species were in dark diversity and in expansion lags
-
-![](./images/pollen-trait.jpg){.absolute top="180" left="350" width="950" height="700"}
-
-::: footer
-::: {style="text-align:right;"}
-[Trindade et al. 2023. Proceedings B](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
-:::
-:::
-
-## Functional traits explained why species were in dark diversity and in expansion lags
-
-![](./images/fig-lichen-trait.png){.absolute top="180" left="350" width="950" height="700"}
-
-::: footer
-::: {style="text-align:right;"}
-[Trindade et al. 2021. Biodiversity and Conservation](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
-:::
-:::
-
 ## Dark diversity and nature conservation
 
 ![](./images/fig1_lichens.png){.absolute top="130" left="0" width="500" height="750"}
@@ -636,6 +719,13 @@ format:
 
 -   Dark diversity and functional traits can be used to guide nature conservation plans, providing a broader conservation planning by focusing on the whole species pool (observed and dark diversity together).
 
-# Thank you!
+# Thank you!{background-color="black"}
 
-- Some photos :)
+# Thank you!{background-image="./images/logo.png" background-size=50% background-position="100% 0%" background-color="black"}
+
+![](./images/ecolchange.jpeg){.absolute top="-230" left="1450" width="400" height="1900"}
+
+
+# Thank you!{background-image="./images/team.jpeg" background-size=60% background-position="100% 50%" background-color="black"}
+
+
