@@ -21,10 +21,7 @@ format:
     auto-play-media: false
     preview-links: auto
     title-slide-attributes:
-      data-background-image: meelis.png
       data-background-color: "black"
-      data-background-size: 100%
-      data-background-opacity: "0.4" 
 ---
 
 ## Community assembly
