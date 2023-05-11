@@ -154,7 +154,7 @@ format:
 
 ::: {.fragment}
 ::: {.fragment .grow .shrink}
-- Useful for [nature conservation]{.green}
+- [Nature conservation]{.green}
 :::
 
 :::
@@ -164,7 +164,7 @@ format:
 
 ## Global change and biodiversity reshuffling
 
-![](./images/pecl.jpeg){.absolute top="200" left="350" width="850" height="600"}
+![](./images/pecl.jpeg){.absolute top="150" left="350" width="850" height="600"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -175,7 +175,7 @@ format:
 
 ## Global change and community assembly
 
-![](./images/assembly-global-change1.svg){.absolute top="100" left="350" width="850" height="1050"}
+![](./images/assembly-global-change1.svg){.absolute top="50" left="350" width="850" height="1050"}
 
 ## Global change and community assembly
 
@@ -219,7 +219,7 @@ format:
 ::: {.column width="30%"}
 
 
-![](./images/assembly-global-change2.svg){.absolute top="100" left="650" width="850" height="1050"}
+![](./images/assembly-global-change2.svg){.absolute top="50" left="650" width="850" height="1050"}
 :::
 
 
@@ -368,7 +368,8 @@ format:
 
 <br><br><br>
 
-#### Low dispersal ability and stress tolerance
+
+#### [Low dispersal ability and stress tolerance]{.red}
 
 
 ![](./images/reasons-dd.svg){.absolute top="330" left="750" width="550" height="650"}
@@ -462,7 +463,7 @@ format:
 :::
 :::
 
-## 2^nd^ paper: Vegetation dynamics over millennial time scales
+## 2^nd^ paper: Vegetation dynamics over 14500 years
 
 ![](./images/fig1-procb.jpg){.absolute top="80" left="450" width="750" height="800"}
 
@@ -569,17 +570,17 @@ format:
 
 :::
 
-![](./images/frangula.png){.absolute top="70" left="550" width="700" height="450"}
+![](./images/frangula.png){.absolute top="70" left="550" width="600" height="350"}
 
-![](./images/plantago.png){.absolute top="85" left="1200" width="650" height="450"}
+![](./images/plantago.png){.absolute top="80" left="1100" width="500" height="350"}
 
 
-![](./images/rumex.png){.absolute top="500" left="950" width="650" height="400"}
+![](./images/rumex.png){.absolute top="450" left="900" width="500" height="350"}
 
 
 ## Taxa with fast life-history traits presented expansion lags
 
-![](./images/pollen-trait.jpg){.absolute top="100" left="550" width="1250" height="750"}
+![](./images/pollen-trait.jpg){.absolute top="100" left="500" width="1150" height="650"}
 
 <br><br><br>
 
@@ -587,7 +588,7 @@ format:
 
 :::{.column width=30%}
 
-### [Taxa were mostly:]{.darkblue} [shorter, small seeds and large leaves]{.orange}
+### [Taxa were mostly:]{.darkblue} [shorter, small seeded and broad-leaved]{.orange}
 
 <br>
 
@@ -602,15 +603,21 @@ format:
 :::
 
 
+::: footer
+::: {style="text-align:right;"}
+[Trindade et al. 2023. Proceedings B](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
+:::
+:::
+
 ## No functional expansion lags
 
 :::columns
 
 :::{.column width=30%}
 
-<br><br>
+<br>
 
-### Functional space available mostly occupied
+### Functional space available mostly occupied - [high functional completeness]{.orange}
 
 <br>
 
@@ -633,6 +640,15 @@ format:
 
 ### High functional redundancy at the species pool level
 
+:::{.fragment}
+
+<br>
+
+#### [Indication of high stability/resilience]{.red}
+
+
+:::
+
 :::
 
 :::
@@ -645,48 +661,8 @@ format:
 
 ### Dark diversity and functional traits enhance nature conservation of lichens
 
-![](./images/italy.png){.absolute top="200" left="200" width="1250" height="600"}
+![](./images/assembly-lichen.svg){.absolute top="220" left="200" width="1250" height="600"}
 
-## Lichen dark diversity along an altitudinal gradient
-
-![](./images/gradient.png){.absolute top="100" left="350" width="750" height="800"}
-
-## Functional traits
-
-<br>
-
--   Growth form: Crustose, Foliose, Fruticose;
-
-<br>
-
--   Photobiont type: Green algae, Trentepohlia;
-
-<br>
-
--   Reproduction
-
-![](./images/lichen-pic.png){.absolute top="100" left="950" width="750" height="800"}
-
-## Conservation or restoration?
-
--   Community completeness index and functional traits
-
-<br>
-
-<br>
-
-![](./images/lewis.png){.absolute top="250" left="350" width="950" height="450"}
-
-::: footer
-::: {style="text-align:right;"}
-[Illustration: Rob Lewis](https://www.annualreviews.org/doi/abs/10.1146/annurev-ecolsys-110411-160411)
-:::
-:::
-
-
-## Bening conditions increased both local and species pool gains
-
-![](./images/fig1_lichens.png){.absolute top="160" left="550" width="500" height="750"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -695,12 +671,178 @@ format:
 :::
 
 
-## Dark diversity and nature conservation
+## 3^rd^ paper: 
 
-![](./images/fig1_lichens.png){.absolute top="130" left="0" width="500" height="750"}
+:::columns
 
-![](./images/fig-lichen-trait.png){.absolute top="130" left="750" width="950" height="700"}
+:::{.column width=40%}
 
+<br>
+
+
+### Functional traits
+
+<br>
+
+-   [Growth form]{.orange}: Crustose, Foliose, Fruticose;
+
+<br>
+
+-   [Photobiont type]{.orange}: Green algae, Trentepohlia;
+
+<br>
+
+-   [Reproduction]{.orange}: Sexual, Asexual
+
+![](./images/lichen-pic.png){.absolute top="250" left="850" width="650" height="500"}
+
+
+:::
+
+:::
+
+::: footer
+::: {style="text-align:right;"}
+[Asplund & Wardle. 2016. Biological Reviews](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12305)
+:::
+:::
+
+
+
+## Conservation or restoration?
+
+<br>
+
+<br>
+
+![](./images/completeness-conservation.svg){.absolute top="150" left="350" width="950" height="450"}
+
+
+
+## Less harsh conditions = larger pools
+
+:::columns
+
+::: {.column width="25%"}
+
+<br>
+
+#### [Larger pool of lichens towards less harsh environments]{.red}
+
+<br>
+
+
+:::
+
+:::
+
+![](./images/fig1-lichens-crop.png){.absolute top="130" left="390" width="600" height="550"}
+![](./images/elevation-x.png){.absolute top="680" left="450" width="560" height="50"}
+
+::: {.fragment}
+
+![](./images/assembly-lichen.svg){.absolute top="100" left="790" width="1250" height="600"}
+
+:::
+
+::: footer
+::: {style="text-align:right;"}
+[Trindade et al. 2021. Biodiversity and Conservation](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
+:::
+:::
+
+
+## Larger and more complete pools 
+
+:::columns
+
+::: {.column width="25%"}
+
+<br>
+
+#### Larger and [more complete]{.orange} pool of lichens towards less harsh environments
+
+<br>
+
+
+![](./images/fig1-lichens-compl-crop.png){.absolute top="150" left="390" width="600" height="550"}
+
+
+
+![](./images/assembly-lichen.svg){.absolute top="100" left="790" width="1250" height="600"}
+
+:::
+
+:::
+
+
+## Warm sensitive and strict biotic interactions
+
+:::columns
+
+::: {.column width="45%"}
+
+<br>
+
+#### [Macrolichens (Foliose/Fruticose)]{.darkblue} and lichens reproducing sexually are more threatened
+
+<br>
+
+:::{.fragment}
+
+#### [Biotic interactions]{.red} not [dispersal limitation]{.yellow} seems to be more important
+
+:::
+
+<br>
+
+
+:::{.fragment}
+
+#### [Crustose lichens with green algae photobiont]{.orange} may be more succesful in restoration activities
+
+:::
+
+
+<br>
+
+![](./images/fig-lichen-trait.png){.absolute top="100" left="850" width="850" height="700"}
+
+
+:::
+
+:::
+
+
+
+## Conservation or restoration?
+
+:::columns
+
+::: {.column width="30%"}
+
+<br>
+
+#### [Conservation and Restoration]{.green} at warmer sites
+
+<br>
+<br>
+
+::: {.fragment}
+
+#### [Conservation]{.green} at colder sites
+
+:::
+
+:::
+:::
+
+
+![](./images/fig1-lichens-compl-crop.png){.absolute top="150" left="550" width="600" height="550"}
+
+
+
+![](./images/completeness-conservation.svg){.absolute top="150" left="940" width="950" height="450"}
 
 ::: footer
 ::: {style="text-align:right;"}
@@ -711,19 +853,20 @@ format:
 
 ## Conclusions
 
--   Observed and dark diversity of both plants and lichens generally increased towards more benign conditions;
+-   Observed and dark diversity of both plants and lichens generally increased towards less harsh conditions;
 
--   Dark diversity can improve our understanding of biodiversity dynamics under global change by revealing species becoming either locally extinct or locally suitable but absent;
+-   Dark diversity reveals how much, how fast and in what direction species pools are changing;
 
 -   Functional traits revealed why species were in the dark diversity of both plants and lichens, and in expansion lag;
 
--   Dark diversity and functional traits can be used to guide nature conservation plans, providing a broader conservation planning by focusing on the whole species pool (observed and dark diversity together).
+-   Dark diversity and functional traits can be used to guide nature conservation plans, focusing on the whole species pool.
+
 
 # Thank you!{background-color="black"}
 
 # Thank you!{background-image="./images/logo.png" background-size=50% background-position="100% 0%" background-color="black"}
 
-![](./images/ecolchange.jpeg){.absolute top="-230" left="1450" width="400" height="1900"}
+![](./images/ecolchange.jpeg){.absolute top="-230" left="1250" width="400" height="1900"}
 
 
 # Thank you!{background-image="./images/team.jpeg" background-size=60% background-position="100% 50%" background-color="black"}
