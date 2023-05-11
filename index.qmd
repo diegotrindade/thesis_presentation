@@ -866,6 +866,6 @@ format:
 ![](./images/ecolchange.jpeg){.absolute top="-230" left="1250" width="400" height="1900"}
 
 
-# Thank you!{background-image="./images/team.jpeg" background-size=60% background-position="100% 50%" background-color="black"}
+# Thank you!{background-image="./images/team.jpeg.png" background-size=60% background-position="100% 50%" background-color="black"}
 
 
