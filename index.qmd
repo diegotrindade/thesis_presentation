@@ -59,7 +59,7 @@ format:
 
 
 
-#### Set of species or traits present in the region, [locally suitable]{.green} but [absent]{.blue}
+#### Set of species or traits present in the region, [locally suitable]{.green}, but [absent]{.blue}
 
 :::
 
@@ -70,8 +70,6 @@ format:
 ![](./images/estimate-dd1.svg){.absolute top="50" left="350" width="850" height="1050"}
 
 ## But we can estimate it
-
-
 
 ![](./images/estimate-dd.svg){.absolute top="50" left="350" width="850" height="1050"}
 
@@ -102,6 +100,22 @@ format:
 ## Functional dark diversity
 
 ![](./images/functional-pool.svg){.absolute top="50" left="350" width="850" height="1050"}
+
+:::columns
+
+::: {.column width="70%"}
+
+
+:::
+
+::: {.column width="30%"}
+
+<br><br><br><br><br><br><br>
+
+#### Portion of the [functional space]{.green2} that could be locally ocupied but is [absent]{.blue}
+
+:::
+:::
 
 
 ## Why is dark diversity important?
@@ -198,7 +212,7 @@ format:
 
 ::: {.fragment}
 
-#### Biodiversity change is [time delayed]{.orange} 
+#### Biodiversity change is [time-delayed]{.orange} 
 :::
 
 ::: {.fragment}
@@ -217,6 +231,7 @@ format:
 
 
 ![](./images/assembly-global-change2.svg){.absolute top="50" left="650" width="850" height="1050"}
+
 :::
 
 
@@ -228,7 +243,7 @@ format:
 
 ::: {.column width="60%"}
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 #### [Dark diversity]{.blue} as a tool to assess and quantify [biodiversity change]{.orange} across space and time? {background-color="black"}
 
@@ -477,7 +492,7 @@ format:
 
 <br><br><br>
 
-#### Less harsh conditions after the [LG]{.blue} and [Late Holocene]{.yellow} boosted biodiversity
+#### Less harsh conditions after the [Late Glacial]{.purple} period and the [Late Holocene]{.red} boosted biodiversity
 
 :::
 :::
@@ -499,19 +514,19 @@ format:
 :::columns
 ::: {.column width="30%"}
 
-<br><br>
+<br>
 
-#### [Less harsh conditions after the [LG]{.blue} and [Late Holocene]{.yellow} boosted biodiversity]{.half-transparent}
+#### Less harsh conditions after the [Late Glacial]{.purple} period and the [Late Holocene]{.red} boosted biodiversity{.half-transparent}
 
 <br>
 
-### [Dark diversity increased faster]{.red}
+#### [Dark diversity]{.blue} increased faster than [observed diversity]{.yellow}
 
 <br>
 
 ::: {.fragment}
 
-### Indication of expansion lag
+#### Indication of expansion lag
 
 :::
 
@@ -533,23 +548,18 @@ format:
 
 <br><br>
 
-### [Dark diversity increased faster]{.red}
+#### [Dark diversity]{.blue} increased faster than [observed diversity]{.yellow}
 
 <br>
 
-### Indication of expansion lag
+
+#### Indication of expansion lag
 
 
 
 :::
 
 :::
-
-## Dark diversity reveals taxa in expansion lag
-
-
-![](./images/freq_taxa.png){.absolute top="50" left="150" width="1450" height="800"}
-
 
 
 ## Dark diversity reveals taxa in expansion lag
@@ -575,17 +585,17 @@ format:
 ![](./images/rumex.png){.absolute top="450" left="900" width="500" height="350"}
 
 
-## Taxa with fast life-history traits presented expansion lags
+## Fast life-history traits linked to expansion lags
 
 ![](./images/pollen-trait.jpg){.absolute top="100" left="500" width="1150" height="650"}
 
-<br><br><br>
+<br><br>
 
 :::columns
 
 :::{.column width=30%}
 
-### [Taxa were mostly:]{.darkblue} [shorter, small seeded and broad-leaved]{.orange}
+### [These taxa were mostly:]{.darkblue} [shorter, small seeded and broad-leaved]{.orange}
 
 <br>
 
@@ -618,7 +628,10 @@ format:
 
 <br>
 
+:::{.fragment}
+
 ### Niches created after the LG and Late Holocene were rapidly occupied
+:::
 
 :::
 
@@ -733,21 +746,49 @@ format:
 
 :::
 
+
+
 ![](./images/fig1-lichens-crop.png){.absolute top="130" left="390" width="600" height="550"}
+
 ![](./images/elevation-x.png){.absolute top="680" left="450" width="560" height="50"}
 
-::: {.fragment}
+
+
+
+
+## Less harsh conditions = larger pools
+
+:::columns
+
+::: {.column width="25%"}
+
+<br>
+
+#### [Larger pool of lichens towards less harsh environments]{.red}
+
+<br>
+
+
+:::
+
+:::
+
+
+![](./images/fig1-lichens-crop.png){.absolute top="130" left="390" width="600" height="550".half-transparent}
+
+![](./images/elevation-x.png){.absolute top="680" left="450" width="560" height="50" .half-transparent}
+
+
 
 ![](./images/assembly-lichen.svg){.absolute top="100" left="790" width="1250" height="600"}
 
-:::
+
 
 ::: footer
 ::: {style="text-align:right;"}
 [Trindade et al. 2021. Biodiversity and Conservation](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
 :::
 :::
-
 
 ## Larger and more complete pools 
 
@@ -787,7 +828,7 @@ format:
 
 :::{.fragment}
 
-#### [Biotic interactions]{.red} not [dispersal limitation]{.yellow} seems to be more important
+#### [Biotic interactions]{.red} not [dispersal limitation]{.purple} seems to be more important
 
 :::
 
@@ -796,7 +837,7 @@ format:
 
 :::{.fragment}
 
-#### [Crustose lichens with green algae photobiont]{.orange} may be more succesful in restoration activities
+#### [Crustose lichens with green algae photobiont]{.orange} may be more successful in restoration activities
 
 :::
 
@@ -827,7 +868,7 @@ format:
 
 ::: {.fragment}
 
-#### [Conservation]{.green} at colder sites
+#### [Conservation]{.green} at cooler sites
 
 :::
 
@@ -869,3 +910,54 @@ format:
 # Thank you!{background-image="./images/team.jpeg.png" background-size=60% background-position="100% 50%" background-color="black"}
 
 
+#
+
+# Additional slides {background-color="black"}
+
+
+
+
+
+
+
+
+## Dark diversity estimation
+
+![](./images/carmona.jpg)
+
+::: footer
+::: {style="text-align:right;"}
+[Carmona & Pärtel. 2021. Glob. Ecol. Biog.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15093)
+:::
+:::
+
+
+
+## Dark diversity reveals taxa in expansion lag
+
+
+![](./images/freq_taxa.png){.absolute top="50" left="150" width="1450" height="800"}
+
+
+
+## PCA traits - pollen
+
+![](./images/fig_pca.png)
+
+
+
+## PCA traits - pollen
+
+![](./images/fig_pca.png)
+
+
+## Adding highly suitable taxa to observed
+
+
+![](./images/addingTaxa.png)
+
+
+## Removing closer sites
+
+
+![](./images/removing_closerSites.png)

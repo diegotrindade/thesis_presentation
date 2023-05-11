@@ -16,11 +16,14 @@ $theme-yellow: #F4BA02;
 $theme-supervisor: #FFC06E;
 $theme-orange: #fa520f;
 $theme-green: #438029;
+$theme-green2: #B2AD13;
 $theme-brown: #616871;
 $theme-blue: #185ADB;
 $theme-glowgreen: #C8F526;
 $theme-aqua: #49deaf;
+$theme-purple: #6706A5;
 $theme-grey: #adb3b1;
+$theme-lightblue: #21a8b5;
 
 
 // colors
@@ -84,6 +87,12 @@ $body-bg: #faf9f7 !default;
   color: $theme-darkblue;
 }
 
+.lightblue {
+  
+  color: $theme-lightblue;
+  
+}
+
 .brown {
   color: $theme-brown;
 }
@@ -111,6 +120,17 @@ $body-bg: #faf9f7 !default;
 
 .green {
   color: $theme-green;
+ 
+}
+
+.green2 {
+  color: $theme-green2;
+ 
+}
+
+
+.purple {
+  color: $theme-purple;
  
 }
 
